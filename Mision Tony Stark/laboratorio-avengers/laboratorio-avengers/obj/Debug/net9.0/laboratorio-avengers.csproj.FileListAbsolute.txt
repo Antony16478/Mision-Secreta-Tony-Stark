@@ -1,0 +1,14 @@
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\bin\Debug\net9.0\laboratorio-avengers.exe
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\bin\Debug\net9.0\laboratorio-avengers.deps.json
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\bin\Debug\net9.0\laboratorio-avengers.runtimeconfig.json
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\bin\Debug\net9.0\laboratorio-avengers.dll
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\bin\Debug\net9.0\laboratorio-avengers.pdb
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\laboratorio-avengers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\laboratorio-avengers.AssemblyInfoInputs.cache
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\laboratorio-avengers.AssemblyInfo.cs
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\laboratorio-avengers.csproj.CoreCompileInputs.cache
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\laboratorio-avengers.dll
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\refint\laboratorio-avengers.dll
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\laboratorio-avengers.pdb
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\laboratorio-avengers.genruntimeconfig.cache
+C:\Mision Tony Stark\laboratorio-avengers\laboratorio-avengers\obj\Debug\net9.0\ref\laboratorio-avengers.dll
